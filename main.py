@@ -12,10 +12,10 @@ def retrieve_data():
     Makes an API request to retrieve cyber threat data and saves it to a file.
     """
     # Set the URL for the data source
-    url = "https://google.com"
+    url = "https://example.com"
 
     # Set the API key for the data source
-    api_key = "92fc4c35-c5c0-4a9e-bebc-8329e6517bda"
+    api_key = "xxxx-xxxxx-xxxxx-xxxxx"
 
     # Set the headers for the API request
     headers = {
